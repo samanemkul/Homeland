@@ -1,0 +1,317 @@
+[19-Dec-2024 07:41:30 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 273
+[19-Dec-2024 07:41:59 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 273
+[19-Dec-2024 08:59:46 UTC] Automatic updates starting...
+[19-Dec-2024 08:59:49 UTC] Automatic updates complete.
+[19-Dec-2024 09:25:50 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 98
+[19-Dec-2024 09:37:42 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 96
+[19-Dec-2024 09:38:32 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 95
+[19-Dec-2024 09:42:06 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[19-Dec-2024 09:42:06 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[19-Dec-2024 09:42:06 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[19-Dec-2024 09:43:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[19-Dec-2024 09:43:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[19-Dec-2024 09:43:22 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[20-Dec-2024 04:28:59 UTC] Automatic updates starting...
+[20-Dec-2024 04:29:03 UTC] Automatic updates complete.
+[20-Dec-2024 08:31:44 UTC] Automatic updates starting...
+[20-Dec-2024 08:31:47 UTC] Automatic updates complete.
+[23-Dec-2024 03:38:32 UTC] Automatic updates starting...
+[23-Dec-2024 03:38:34 UTC]   Automatic plugin updates starting...
+[23-Dec-2024 03:38:34 UTC]   Automatic plugin updates complete.
+[23-Dec-2024 03:38:35 UTC] Automatic updates complete.
+[23-Dec-2024 04:40:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\functions.php on line 238
+[23-Dec-2024 04:40:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\functions.php on line 238
+[23-Dec-2024 04:40:31 UTC] PHP Notice:  Function _load_textdomain_just_in_time was called <strong>incorrectly</strong>. Translation loading for the <code>homeland</code> domain was triggered too early. This is usually an indicator for some code in the plugin or theme running too early. Translations should be loaded at the <code>init</code> action or later. Please see <a href="https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 6.7.0.) in C:\xampp\htdocs\homeland\wp-includes\functions.php on line 6114
+[23-Dec-2024 04:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[23-Dec-2024 04:40:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[23-Dec-2024 04:42:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\functions.php on line 239
+[23-Dec-2024 04:42:32 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\functions.php on line 239
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 197
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 198
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 202
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 202
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 203
+[23-Dec-2024 07:40:08 UTC] PHP Notice:  Undefined variable: counter in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\about-template.php on line 211
+[23-Dec-2024 08:25:14 UTC] Automatic updates starting...
+[23-Dec-2024 08:25:15 UTC]   Automatic plugin updates starting...
+[23-Dec-2024 08:25:15 UTC]   Automatic plugin updates complete.
+[23-Dec-2024 08:25:16 UTC] Automatic updates complete.
+[24-Dec-2024 04:14:40 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\homeland\wp-includes\functions.php on line 6114
+[24-Dec-2024 04:14:42 UTC] Automatic updates starting...
+[24-Dec-2024 04:14:44 UTC]   Automatic plugin updates starting...
+[24-Dec-2024 04:14:44 UTC]   Automatic plugin updates complete.
+[24-Dec-2024 04:14:45 UTC] Automatic updates complete.
+[26-Dec-2024 03:53:43 UTC] Automatic updates starting...
+[26-Dec-2024 03:53:45 UTC]   Automatic plugin updates starting...
+[26-Dec-2024 03:53:45 UTC]   Automatic plugin updates complete.
+[26-Dec-2024 03:53:46 UTC] Automatic updates complete.
+[26-Dec-2024 08:24:51 UTC] Automatic updates starting...
+[26-Dec-2024 08:24:53 UTC]   Automatic plugin updates starting...
+[26-Dec-2024 08:24:53 UTC]   Automatic plugin updates complete.
+[26-Dec-2024 08:24:57 UTC] Automatic updates complete.
+[26-Dec-2024 11:30:57 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 23
+[26-Dec-2024 11:30:57 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 23
+[26-Dec-2024 11:33:44 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[26-Dec-2024 11:33:44 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 03:31:21 UTC] Automatic updates starting...
+[27-Dec-2024 03:31:23 UTC]   Automatic plugin updates starting...
+[27-Dec-2024 03:31:23 UTC]   Automatic plugin updates complete.
+[27-Dec-2024 03:31:24 UTC] Automatic updates complete.
+[27-Dec-2024 03:37:09 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 03:37:09 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 03:40:15 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 03:40:15 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 03:48:42 UTC] PHP Notice:  Undefined index: see in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 16
+[27-Dec-2024 03:48:42 UTC] PHP Notice:  Undefined index: see in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 16
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:41:39 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 162
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:02 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 05:44:34 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 160
+[27-Dec-2024 07:10:33 UTC] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 33
+[27-Dec-2024 07:10:33 UTC] PHP Notice:  Undefined variable: price in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 33
+[27-Dec-2024 07:11:53 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:11:53 UTC] PHP Notice:  Undefined variable: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 07:11:53 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:11:53 UTC] PHP Notice:  Undefined variable: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 07:13:47 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:13:47 UTC] PHP Notice:  Undefined variable: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 07:13:47 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:13:47 UTC] PHP Notice:  Undefined variable: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 26
+[27-Dec-2024 07:14:13 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:14:13 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[27-Dec-2024 07:14:13 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:14:13 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[27-Dec-2024 07:15:04 UTC] PHP Notice:  Undefined index: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 14
+[27-Dec-2024 07:15:04 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:15:04 UTC] PHP Notice:  Undefined index: for_rent in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 14
+[27-Dec-2024 07:15:04 UTC] PHP Warning:  ltrim() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 4467
+[27-Dec-2024 07:39:48 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 40
+[27-Dec-2024 08:24:24 UTC] Automatic updates starting...
+[27-Dec-2024 08:24:26 UTC]   Automatic plugin updates starting...
+[27-Dec-2024 08:24:26 UTC]   Automatic plugin updates complete.
+[27-Dec-2024 08:24:27 UTC] Automatic updates complete.
+[30-Dec-2024 03:34:30 UTC] Automatic updates starting...
+[30-Dec-2024 03:34:33 UTC]   Automatic plugin updates starting...
+[30-Dec-2024 03:34:33 UTC]   Automatic plugin updates complete.
+[30-Dec-2024 03:34:34 UTC] Automatic updates complete.
+[30-Dec-2024 11:12:52 UTC] Automatic updates starting...
+[30-Dec-2024 11:12:53 UTC]   Automatic plugin updates starting...
+[30-Dec-2024 11:12:53 UTC]   Automatic plugin updates complete.
+[30-Dec-2024 11:12:54 UTC] Automatic updates complete.
+[31-Dec-2024 03:25:27 UTC] Automatic updates starting...
+[31-Dec-2024 03:25:30 UTC]   Automatic plugin updates starting...
+[31-Dec-2024 03:25:30 UTC]   Automatic plugin updates complete.
+[31-Dec-2024 03:25:31 UTC] Automatic updates complete.
+[31-Dec-2024 04:39:06 UTC] PHP Notice:  Undefined variable: gallery in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 105
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:40:13 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 111
+[31-Dec-2024 04:47:55 UTC] PHP Notice:  Undefined variable: gallery in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 104
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'url' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 109
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'sizes' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'medium' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 04:48:41 UTC] PHP Warning:  Illegal string offset 'alt' in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\properties-template.php on line 110
+[31-Dec-2024 07:55:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\homeland\wp-includes\rest-api\endpoints\class-wp-rest-sidebars-controller.php on line 324
+[31-Dec-2024 07:55:07 UTC] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\homeland\wp-includes\rest-api\endpoints\class-wp-rest-sidebars-controller.php on line 340
+[31-Dec-2024 08:24:10 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 244
+[31-Dec-2024 08:24:10 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 244
+[31-Dec-2024 08:24:10 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 244
+[31-Dec-2024 08:24:25 UTC] Automatic updates starting...
+[31-Dec-2024 08:24:26 UTC]   Automatic plugin updates starting...
+[31-Dec-2024 08:24:26 UTC]   Automatic plugin updates complete.
+[31-Dec-2024 08:24:27 UTC] Automatic updates complete.
+[01-Jan-2025 03:09:31 UTC] Automatic updates starting...
+[01-Jan-2025 03:09:33 UTC]   Automatic plugin updates starting...
+[01-Jan-2025 03:09:33 UTC]   Automatic plugin updates complete.
+[01-Jan-2025 03:09:34 UTC] Automatic updates complete.
+[01-Jan-2025 09:25:16 UTC] Automatic updates starting...
+[01-Jan-2025 09:25:18 UTC]   Automatic plugin updates starting...
+[01-Jan-2025 09:25:18 UTC]   Automatic plugin updates complete.
+[01-Jan-2025 09:25:19 UTC] Automatic updates complete.
+[06-Jan-2025 03:33:47 UTC] Automatic updates starting...
+[06-Jan-2025 03:33:50 UTC]   Automatic plugin updates starting...
+[06-Jan-2025 03:33:50 UTC]   Automatic plugin updates complete.
+[06-Jan-2025 03:33:51 UTC] Automatic updates complete.
+[06-Jan-2025 07:29:15 UTC] PHP Notice:  Undefined variable: readmore in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\list-view-template.php on line 239
+[06-Jan-2025 07:29:15 UTC] PHP Notice:  Undefined variable: readmore in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\list-view-template.php on line 239
+[06-Jan-2025 07:29:15 UTC] PHP Notice:  Undefined variable: readmore in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\list-view-template.php on line 239
+[06-Jan-2025 08:55:27 UTC] Automatic updates starting...
+[06-Jan-2025 08:55:28 UTC]   Automatic plugin updates starting...
+[06-Jan-2025 08:55:28 UTC]   Automatic plugin updates complete.
+[06-Jan-2025 08:55:29 UTC] Automatic updates complete.
+[07-Jan-2025 03:21:30 UTC] Automatic updates starting...
+[07-Jan-2025 03:21:32 UTC]   Automatic plugin updates starting...
+[07-Jan-2025 03:21:32 UTC]   Automatic plugin updates complete.
+[07-Jan-2025 03:21:33 UTC] Automatic updates complete.
+[07-Jan-2025 07:31:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 20
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:08:53 UTC] PHP Warning:  strtolower() expects parameter 1 to be string, array given in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\home-template.php on line 158
+[07-Jan-2025 08:08:53 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\homeland\wp-includes\formatting.php on line 1096
+[07-Jan-2025 08:25:02 UTC] Automatic updates starting...
+[07-Jan-2025 08:25:03 UTC]   Automatic plugin updates starting...
+[07-Jan-2025 08:25:03 UTC]   Automatic plugin updates complete.
+[07-Jan-2025 08:25:04 UTC] Automatic updates complete.
+[07-Jan-2025 09:29:23 UTC] PHP Notice:  Undefined variable: slider in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 8
+[07-Jan-2025 09:29:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 8
+[07-Jan-2025 09:29:23 UTC] PHP Notice:  Undefined variable: choose in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 211
+[07-Jan-2025 09:29:23 UTC] PHP Notice:  Undefined variable: choose_desc in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 213
+[07-Jan-2025 09:30:19 UTC] PHP Notice:  Undefined variable: choose in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 12
+[07-Jan-2025 09:30:19 UTC] PHP Notice:  Undefined variable: choose_desc in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 14
+[07-Jan-2025 09:40:27 UTC] PHP Notice:  Undefined index: background_image in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 15
+[07-Jan-2025 09:40:27 UTC] PHP Notice:  Undefined index: background_image in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 15
+[07-Jan-2025 09:40:29 UTC] PHP Notice:  Undefined index: background_image in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 15
+[07-Jan-2025 09:40:29 UTC] PHP Notice:  Undefined index: background_image in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 15
+[08-Jan-2025 03:14:40 UTC] Automatic updates starting...
+[08-Jan-2025 03:14:42 UTC]   Automatic plugin updates starting...
+[08-Jan-2025 03:14:42 UTC]   Automatic plugin updates complete.
+[08-Jan-2025 03:14:43 UTC] Automatic updates complete.
+[08-Jan-2025 04:14:15 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 60
+[08-Jan-2025 04:14:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 60
+[08-Jan-2025 04:14:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 60
+[08-Jan-2025 04:14:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\rent-template.php on line 60
+[08-Jan-2025 04:30:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 61
+[08-Jan-2025 04:30:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 61
+[08-Jan-2025 04:30:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 72
+[08-Jan-2025 04:30:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 72
+[08-Jan-2025 04:30:46 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 83
+[08-Jan-2025 04:30:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 83
+[08-Jan-2025 04:31:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 61
+[08-Jan-2025 04:31:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 61
+[08-Jan-2025 04:31:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 72
+[08-Jan-2025 04:31:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 72
+[08-Jan-2025 04:31:00 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 83
+[08-Jan-2025 04:31:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\homeland\wp-content\themes\homeland\template-parts\buy-template.php on line 83
+[08-Jan-2025 08:24:28 UTC] Automatic updates starting...
+[08-Jan-2025 08:24:31 UTC]   Automatic plugin updates starting...
+[08-Jan-2025 08:24:31 UTC]   Automatic plugin updates complete.
+[08-Jan-2025 08:24:32 UTC] Automatic updates complete.

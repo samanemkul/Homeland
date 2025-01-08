@@ -19,11 +19,13 @@ get_header();
     <div class="container">
         <div class="row">
             <?php
+            $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
             $args = array(
                 'post_type' => 'post',
-                'posts_per_page' => 6,
+                'posts_per_page' => 5,
                 'order' => 'ASC',
                 'orderby' => 'date',
+                'paged' => $paged,
             );
             $query = new WP_Query($args);
             if ($query->have_posts()) :
@@ -52,10 +54,29 @@ get_header();
                 wp_reset_postdata(); // Reset the query
             else :
                 ?>
-                <p><?php esc_html_e('No posts found.', 'textdomain'); ?></p>
+                <p><?php esc_html_e('No posts found.'); ?></p>
             <?php endif; ?>
-        </div> <!-- End row -->
-    </div> <!-- End container -->
+
+
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="site-pagination">
+                    <?php
+                    echo paginate_links(array(
+                        'total' => $query->max_num_pages,
+                        'current' => $paged,
+                        'prev_text'    => __('«'),
+                        'next_text'    => __(' »'),
+                    ));
+                    ?>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
 </div> <!-- End site-section -->
 
 <?php get_footer(); ?>
